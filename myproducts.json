@@ -1,0 +1,42 @@
+[
+    {
+      "userId": 1,
+      "firstName": "Krish",
+      "lastName": "Lee",
+      "phoneNumber": "123456",
+      "emailAddress": "krish.lee@learningcontainer.com",
+      "photo": "bike-1.jpeg"
+    },
+    {
+      "userId": 2,
+      "firstName": "fayaz",
+      "lastName": "Lee",
+      "phoneNumber": "123456",
+      "emailAddress": "krish.lee@learningcontainer.com",
+      "photo": "bike-1.jpeg"
+    },
+    {
+      "userId": 2,
+      "firstName": "asee",
+      "lastName": "Lee",
+      "phoneNumber": "123456",
+      "emailAddress": "krish.lee@learningcontainer.com",
+      "photo": "bike-3.jpeg"
+    },
+    {
+      "userId": 2,
+      "firstName": "narati",
+      "lastName": "Lee",
+      "phoneNumber": "123456",
+      "emailAddress": "krish.lee@learningcontainer.com",
+      "photo": "bike-2.jpeg"
+    },
+    {
+      "userId": 3,
+      "firstName": "rabin ",
+      "lastName": "Lee",
+      "phoneNumber": "123456",
+      "emailAddress": "krish.lee@learningcontainer.com",
+      "photo": "bike-1.jpeg"
+    } 
+  ]
